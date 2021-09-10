@@ -35,7 +35,7 @@ gowitness
   
 suggestion:
   
-1.Properly configure path of your resolvers file as the scirpt is personal one and contains the path of my local machine 
+1.Properly configure path of your resolvers.txt file,fingerprints.json file as the scirpt is personal one and contains the path of my local machine 
   so, configure your path accordingly.
   
 2.Read the script first and make necessary amends as per your requirement.
