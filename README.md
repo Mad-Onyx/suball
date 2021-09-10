@@ -1,22 +1,37 @@
 # enumeration
 A go-to enumeration script for subdomain enumeration
 
+
 usage
+
 chmod +x main.sh
+
 ./main.sh <path of file with domain> <export path>
 
+ 
 Tools used:
+  
 Assetfinder
+  
 sublist3r
+  
 subfinder
+  
 amass
+  
 httprobe
+  
 massdns
+  
 subjack
+
 subzy
+
 gowitness
+  
 (all are available in github)
 
+  
 suggestion:
   
 1.Properly configure path of your resolvers file as the scirpt is personal one and contains the path of my local machine 
