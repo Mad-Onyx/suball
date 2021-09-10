@@ -1,4 +1,5 @@
-#allsub
+#suball
+
 A go-to enumeration script for subdomain enumeration, test for subdomain takeover and screenshot the subdomains.
 
 
